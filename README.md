@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mowblow
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning AI/ML Engineering
 - 💞️ I’m looking to collaborate on any type of projects
 - 📫 How to reach me - this is my email: mowaolasupo@gmail.com
 
